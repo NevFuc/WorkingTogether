@@ -1,4 +1,4 @@
-﻿/*
+/*
 * Creator: Elia Brunner
 */
 package ch.coolesPackage.testingPackage;

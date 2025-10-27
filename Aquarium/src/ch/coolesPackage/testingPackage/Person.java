@@ -1,4 +1,4 @@
-﻿package ch.coolesPackage.testingPackage;
+package ch.coolesPackage.testingPackage;
 
 public class Person {
     public String name;
