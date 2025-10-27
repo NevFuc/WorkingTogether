@@ -16,6 +16,6 @@ public class Person {
     }
 
     public void insultNevio(){
-        System.out.println("Fick dich Nevio ---|---");
+        System.out.println("Du bist uncool");
     }
 }
